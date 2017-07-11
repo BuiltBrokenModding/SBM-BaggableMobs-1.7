@@ -1,0 +1,9 @@
+item.bagablemobs:bag.name=Mob Bag
+
+item.bagablemobs:bag.info.empty=Empty
+item.bagablemobs:bag.info.entity=Entity: %s
+item.bagablemobs:bag.info.count=Count: %s
+
+item.bagablemobs:bag.error=Error
+item.bagablemobs:bag.error.failedToCreateEntity=Failed to create entity from save data. Entity Save String: %1
+item.bagablemobs:bag.error.unexpected=Unexpected error while preforming action see console for details, report error to your admin, moderator, or directly to the mod developer. Error Message: %1

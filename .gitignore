@@ -1,0 +1,7 @@
+*.iml
+.gradle/
+SBM-HelmBucket.txt
+CompiledWith.txt
+build/
+output/
+SBM-BagablePlants.txt
